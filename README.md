@@ -12,10 +12,6 @@ This application is a flight monitoring system that utilizes real-time flight tr
 - [react-paginate](https://www.npmjs.com/package/react-paginate): Used for adding 
 pagination functionality.
 
-### Screen
-
-![](radar.gif)
-
 ### Resources
 
 - API: [https://rapidapi.com/apidojo/api/flight-radar1](https://rapidapi.com/apidojo/api/flight-radar1)
